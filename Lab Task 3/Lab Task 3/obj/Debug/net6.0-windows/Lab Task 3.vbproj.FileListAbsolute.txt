@@ -1,0 +1,21 @@
+C:\Users\hp\Documents\DDTA\SEM4\VB\Lab Task 3\Lab Task 3\bin\Debug\net6.0-windows\Lab Task 3.exe
+C:\Users\hp\Documents\DDTA\SEM4\VB\Lab Task 3\Lab Task 3\bin\Debug\net6.0-windows\Lab Task 3.deps.json
+C:\Users\hp\Documents\DDTA\SEM4\VB\Lab Task 3\Lab Task 3\bin\Debug\net6.0-windows\Lab Task 3.runtimeconfig.json
+C:\Users\hp\Documents\DDTA\SEM4\VB\Lab Task 3\Lab Task 3\bin\Debug\net6.0-windows\Lab Task 3.dll
+C:\Users\hp\Documents\DDTA\SEM4\VB\Lab Task 3\Lab Task 3\bin\Debug\net6.0-windows\Lab Task 3.pdb
+C:\Users\hp\Documents\DDTA\SEM4\VB\Lab Task 3\Lab Task 3\obj\Debug\net6.0-windows\Lab Task 3.vbproj.AssemblyReference.cache
+C:\Users\hp\Documents\DDTA\SEM4\VB\Lab Task 3\Lab Task 3\obj\Debug\net6.0-windows\Lab_Task_3.Form1.resources
+C:\Users\hp\Documents\DDTA\SEM4\VB\Lab Task 3\Lab Task 3\obj\Debug\net6.0-windows\Lab_Task_3.Game.resources
+C:\Users\hp\Documents\DDTA\SEM4\VB\Lab Task 3\Lab Task 3\obj\Debug\net6.0-windows\Lab_Task_3.Resources.resources
+C:\Users\hp\Documents\DDTA\SEM4\VB\Lab Task 3\Lab Task 3\obj\Debug\net6.0-windows\Lab Task 3.vbproj.GenerateResource.cache
+C:\Users\hp\Documents\DDTA\SEM4\VB\Lab Task 3\Lab Task 3\obj\Debug\net6.0-windows\Lab Task 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\DDTA\SEM4\VB\Lab Task 3\Lab Task 3\obj\Debug\net6.0-windows\Lab Task 3.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\DDTA\SEM4\VB\Lab Task 3\Lab Task 3\obj\Debug\net6.0-windows\Lab Task 3.AssemblyInfo.vb
+C:\Users\hp\Documents\DDTA\SEM4\VB\Lab Task 3\Lab Task 3\obj\Debug\net6.0-windows\Lab Task 3.vbproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\DDTA\SEM4\VB\Lab Task 3\Lab Task 3\obj\Debug\net6.0-windows\Lab Task 3.dll
+C:\Users\hp\Documents\DDTA\SEM4\VB\Lab Task 3\Lab Task 3\obj\Debug\net6.0-windows\refint\Lab Task 3.dll
+C:\Users\hp\Documents\DDTA\SEM4\VB\Lab Task 3\Lab Task 3\obj\Debug\net6.0-windows\Lab Task 3.pdb
+C:\Users\hp\Documents\DDTA\SEM4\VB\Lab Task 3\Lab Task 3\obj\Debug\net6.0-windows\Lab Task 3.genruntimeconfig.cache
+C:\Users\hp\Documents\DDTA\SEM4\VB\Lab Task 3\Lab Task 3\obj\Debug\net6.0-windows\ref\Lab Task 3.dll
+C:\Users\hp\Documents\DDTA\SEM4\VB\Lab Task 3\Lab Task 3\obj\Debug\net6.0-windows\Lab_Task_3.Splash.resources
+C:\Users\hp\Documents\DDTA\SEM4\VB\Lab Task 3\Lab Task 3\obj\Debug\net6.0-windows\Lab_Task_3.Loading.resources
